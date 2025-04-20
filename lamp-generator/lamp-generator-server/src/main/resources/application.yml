@@ -4,7 +4,7 @@ lamp:
     outputDir: /Users/tangyh/gitlab/lamp-cloud-pro-none
     frontOutputDir: /Users/tangyh/gitlab/lamp-web-pro
     # 作者
-    author: zuihou
+    author: qinxi
     # 默认项目
     projectType: CLOUD
   #  # 去除表前缀

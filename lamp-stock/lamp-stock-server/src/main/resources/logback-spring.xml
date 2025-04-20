@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!-- 此文件位于 lamp-cloud/lamp-public/lamp-common 的 resources 下 -->
+    <include resource="defaults-biz-prod.xml"/>
+
+    <!-- 可以把下面的配置也移动到 defaults-biz-dev.xml 中 -->
+
+</configuration>
