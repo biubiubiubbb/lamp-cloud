@@ -31,7 +31,7 @@ import java.util.Map;
 @EqualsAndHashCode(callSuper = true)
 @Builder
 @Schema(description = "操作记录表")
-public class OperationResultVO extends Entity<Integer> implements Serializable, EchoVO {
+public class OperationResultVO extends Entity<Long> implements Serializable, EchoVO {
 
     @Serial
     private static final long serialVersionUID = 1L;
